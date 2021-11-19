@@ -246,14 +246,8 @@ div.dataTables_wrapper div.dataTables_paginate ul.pagination {
 
 @media screen and (max-width:538px) {
     .table__content__new {
-        width: 75%;
+        width: 60%;
         overflow-x: scroll;
     }
 }
 
-@media screen and (max-width:320px) {
-    .table__content__new {
-        width: 68%;
-        overflow-x: scroll;
-    }
-}
