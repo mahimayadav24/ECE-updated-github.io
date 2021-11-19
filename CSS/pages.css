@@ -145,7 +145,7 @@ body, html {
 
 .st__grid .img_1 {
     background-color: rgba(171, 202, 255, 1);
-    border-radius: 40px;
+    border-radius: 50%;
     padding: 5px;
 }
 
